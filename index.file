@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LKK Exports | Global Agricultural Exporter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+    <div class="hero-content">
+        <h1>LKK Exports</h1>
+        <p>Delivering Premium Indian Agricultural Products to Global Markets</p>
+        <a href="#contact" class="btn">Get In Touch</a>
+    </div>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#why">Why Choose Us</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About LKK Exports</h2>
+    <p>
+        LKK Exports is a trusted export company based in Coimbatore, Tamil Nadu, India.
+        We specialize in supplying high-quality agricultural and food products to
+        international markets with strict quality control and timely delivery.
+    </p>
+</section>
+
+<section id="products">
+    <h2>Our Export Products</h2>
+    <div class="product-grid">
+        <div class="card">
+            <h3>Spices</h3>
+            <p>Premium Indian spices with rich aroma and natural flavor.</p>
+        </div>
+        <div class="card">
+            <h3>Rice</h3>
+            <p>High-quality basmati and non-basmati rice for global markets.</p>
+        </div>
+        <div class="card">
+            <h3>Coconut Products</h3>
+            <p>Fresh coconuts, coconut oil, and coconut-based products.</p>
+        </div>
+        <div class="card">
+            <h3>Millets</h3>
+            <p>Healthy and organic millets with international export standards.</p>
+        </div>
+    </div>
+</section>
+
+<section id="why">
+    <h2>Why Choose Us</h2>
+    <ul class="why-list">
+        <li>✔ Strict Quality Inspection</li>
+        <li>✔ Competitive International Pricing</li>
+        <li>✔ On-Time Global Delivery</li>
+        <li>✔ Strong Supplier Network</li>
+        <li>✔ Customer Satisfaction Priority</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: Karthikeyan541914@gmail.com</p>
+    <p>Phone: +91 8903468482</p>
+    <p>Location: Coimbatore, Tamil Nadu, India</p>
+</section>
+
+<footer>
+    <p>© 2026 LKK Exports. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
